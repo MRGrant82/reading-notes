@@ -5,7 +5,7 @@ My name is *Michael Grant*  and I enjoy problem solving, puzzles, and learning n
 [GitHub Portfolio](https://github.com/MRGrant82)
 
 
-##Growth Mindset##
+**Growth Mindset**
 
 >Growth Mindset is a way of thinking to always have an avenue forward - never think that you have come to a deadend and know that with resolve you can keep moving forward.
 

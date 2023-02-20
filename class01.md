@@ -16,3 +16,9 @@
 - Any other .md files
 - Issues, comments, code reviews, etc…
 
+**Important web pages for this section
+
+- [What is Markdown?](https://www.markdownguide.org/getting-started/)
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+

@@ -1,17 +1,62 @@
-# reading-notes
-My **reading journal** for Code Fellows
+## **Introduction**
 
 My name is *Michael Grant*  and I enjoy problem solving, puzzles, and learning new skillsets.  Link to my github portfolio:
 [GitHub Portfolio](https://github.com/MRGrant82)
 
+## **Why I am here**
 
-# **Growth Mindset**
+I am here to learn how to code!
 
->Growth Mindset is a way of thinking to always have an avenue forward - never think that you have come to a deadend and know that with resolve you can keep moving forward.
+## **Table of contents**
 
-1. Remember the bowl of popcorn: not every kernel pops at once, but they will all pop in their own time.
-2. Remember at the end of the day I learned something new and still moved forward.
-3. Never give up.  Use the 15 minute rule.  I can do this.
+My name is *Michael Grant*  and I enjoy problem solving, puzzles, and learning new skillsets.  Link to my github portfolio:
+[GitHub Portfolio](https://github.com/MRGrant82)
 
+[Link to class 1 notes for 102](102/class1.md)
+
+[Link to class 2 notes for 102](102/class2.md)
+
+[Link to class 3 notes for 102](102/class3.md)
+
+[Link to class 4 notes for 102](102/class4.md)
+
+[Link to class 5 notes for 102](102/class5.md)
+
+[Link to class 6 notes for 102](102/class6.md)
+
+[Link to class 7 notes for 102](102/class7.md)
+
+[Link to class 8 notes for 102](102/class8.md)
+
+
+[Link to class 1 notes for 201](201/class1.md)
+
+[Link to class 2 notes for 201](201/class2.md)
+
+[Link to class 3 notes for 201](201/class3.md)
+
+[Link to class 4 notes for 201](201/class4.md)
+
+[Link to class 5 notes for 201](201/class5.md)
+
+[Link to class 6 notes for 201](201/class6.md)
+
+[Link to class 7 notes for 201](201/class7.md)
+
+[Link to class 8 notes for 201](201/class8.md)
+
+[Link to class 9 notes for 201](201/class9.md)
+
+[Link to class 10 notes for 201](201/class10.md)
+
+[Link to class 11 notes for 201](201/class11.md)
+
+[Link to class 12 notes for 201](201/class12.md)
+
+[Link to class 13 notes for 201](201/class13.md)
+
+[Link to class 14 notes for 201](201/class14.md)
+
+[Link to class 15 notes for 201](201/class15.md)
 
 

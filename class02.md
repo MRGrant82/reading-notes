@@ -13,6 +13,8 @@ extensions available when you need them.*
 - cd *This stands for "change directory" and was one of the first things I personally learned when I was a kid navigating in DOS.*
 - mkdir *this stands for "make directory"
 - touch *this creates and modifies files in the system*
+-  rm *This stands for remove a file - you can remove a file from a directory.*
+-  rm -rf theName *Will remove a directory recursively and by force.*
 
 **Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)**
 
@@ -21,3 +23,4 @@ extensions available when you need them.*
 - touch new-project/newfile.md *This creates the newfile.md in the project directory.*
 - cd .. *This moves back one level from the current directory.*
 - ls projects/new-project *This lists what is currently in the new-project directory.*
+

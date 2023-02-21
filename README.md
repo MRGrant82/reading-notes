@@ -9,8 +9,7 @@ I am here to learn how to code!
 
 ## **Table of contents**
 
-My name is *Michael Grant*  and I enjoy problem solving, puzzles, and learning new skillsets.  Link to my github portfolio:
-[GitHub Portfolio](https://github.com/MRGrant82)
+**Links to 102 class notes**
 
 [Link to class 1 notes for 102](102/class1.md)
 
@@ -28,6 +27,7 @@ My name is *Michael Grant*  and I enjoy problem solving, puzzles, and learning n
 
 [Link to class 8 notes for 102](102/class8.md)
 
+**Links to 201 class notes**
 
 [Link to class 1 notes for 201](201/class1.md)
 

@@ -16,5 +16,18 @@ Bit - Smallest information a computer can store
 The Binary Number System
 0 1
 
+Four ways to declare a variable
+Let (declare a variable that can be changed)cd .
+Const (constant, cannot be changed)
+Var – bad practice
+(none) – bad practice
 
+
+// Data Types
+// String --> "text", "42", ""
+// numbers --> 42, 123,456
+// boolean --> true / false
+
+let myFavColor = "yellow";
+console.log("Hello world!");
 

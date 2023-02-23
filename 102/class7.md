@@ -45,3 +45,21 @@ https://www.w3schools.com/js/js_functions.asp
 https://www.w3schools.com/js/js_operators.asp
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
+
+identify the shirt
+advance to the shirt
+movement to reach for the shirt
+close hands around the shirt
+spread shirt between two hands
+Rotate shirt, if neccessary, so the back of the shirt is facing you
+identify left sleeve
+insert left arm into shirt through the left sleeve, from the bottom of the shirt
+hold on to left sleeve with left hand
+identify right sleeve
+insert right arm through right sleeve, from the bottom of the shirt
+adjust the shirt so it is comfortably around your torso
+let go of left sleeve with left hand
+raise both arms above head
+lower shirt, allowing head to enter through the neck hole
+grab bottom of shirt with both hands
+pull bottom of shirt to the waist

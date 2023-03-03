@@ -59,4 +59,6 @@ I am here to learn how to code!
 
 [Link to class 15 notes for 201](201/class15.md)
 
+**Links to 301 class notes**
 
+**Links to 401 class notes**

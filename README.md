@@ -1,4 +1,4 @@
-## **Introduction**
+# **Introduction**
 
 My name is *Michael Grant*  and I enjoy problem solving, puzzles, and learning new skillsets.  Link to my github portfolio:
 [GitHub Portfolio](https://github.com/MRGrant82)

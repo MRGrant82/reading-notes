@@ -79,3 +79,23 @@
 * JavaScript code can be included in HTML documents using the <script> element, or in external JavaScript files that are linked to the HTML document.
 * JavaScript is a high-level language that is easy to learn, and has a large and active community of developers.
 * JavaScript is a core technology of the web, and is used extensively in web development.
+
+# **Ubuntu Terminal Commands**
+
+* cd - Changes the current working directory. For example, cd /home/username changes the current directory to /home/username.
+* ls - Lists the contents of the current directory. For example, ls -l shows a detailed list of files and directories in the current directory.
+* mkdir - Creates a new directory. For example, mkdir my_folder creates a new directory called my_folder.
+* touch - Creates a new file or updates the modification time of an existing file. For example, touch my_file.txt creates a new file called my_file.txt.
+* cp - Copies a file or directory from one location to another. For example, cp file.txt /home/username/destination copies file.txt to /home/username/destination.
+* mv - Moves a file or directory from one location to another. For example, mv file.txt /home/username/destination moves file.txt to /home/username/destination.
+* rm - Removes a file or directory. For example, rm file.txt removes file.txt.
+* sudo - Allows you to execute a command with administrative privileges. For example, sudo apt-get update updates the system package list.
+* grep - Searches for a pattern in a file or output. For example, grep "error" logfile.txt searches for the word "error" in logfile.txt.
+* man - Displays the manual page for a command. For example, man ls shows the manual page for the ls command.
+
+# **CRUD**
+
+* Create - This operation creates new data and adds it to the database. For example, creating a new user account in a system.
+* Read - This operation reads the data from the database. For example, displaying a user's profile information on a website.
+* Update - This operation modifies existing data in the database. For example, updating a user's password or email address.
+* Delete - This operation removes existing data from the database. For example, deleting a user's account.

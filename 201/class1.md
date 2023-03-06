@@ -95,7 +95,7 @@
 
 # **CRUD**
 
-* Create - This operation creates new data and adds it to the database. For example, creating a new user account in a system.
-* Read - This operation reads the data from the database. For example, displaying a user's profile information on a website.
-* Update - This operation modifies existing data in the database. For example, updating a user's password or email address.
-* Delete - This operation removes existing data from the database. For example, deleting a user's account.
+* Create - Creates new data and adds it to the database. For example, creating a new user account in a system.
+* Read - Reads the data from the database. For example, displaying a user's profile information on a website.
+* Update - Modifies existing data in the database. For example, updating a user's password or email address.
+* Delete - Removes existing data from the database. For example, deleting a user's account.

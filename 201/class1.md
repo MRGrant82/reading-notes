@@ -7,7 +7,7 @@ To create web pages, you need a text editor and a web browser.
 Web developers use a variety of tools and technologies, such as version control systems, package managers, and build tools.
 To learn more about web development, you can use online resources like MDN Web Docs, and join online communities and forums.
 
-**How the Web works
+# **How the Web works**
 
 The web is a client-server system, where clients (such as web browsers) request resources from servers, which send back responses.
 The Hypertext Transfer Protocol (HTTP) is used for communication between clients and servers.
@@ -17,7 +17,7 @@ Web browsers use rendering engines like Gecko or Blink to display web pages.
 When you click on a link or type in a URL, your web browser sends a request to the server, which responds with the requested resource.
 The web uses a range of technologies and standards, such as HTML, CSS, JavaScript, HTTP, and DNS.
 
-**What will your website look like
+# **What will your website look like**
 
 The design of a website is important for attracting and retaining visitors.
 Good design involves factors like visual appeal, usability, accessibility, and responsiveness.
@@ -26,7 +26,7 @@ Wireframing and prototyping tools can help you plan the layout and structure of 
 Testing and iterating on your design is important to ensure it meets the needs of your users.
 The design of your website should reflect your brand and your target audience.
 
-**Introduction to HTML: Getting started
+# **Introduction to HTML: Getting started**
 
 HTML stands for Hypertext Markup Language, and is used to create the content and structure of web pages.
 HTML consists of a series of elements, which are surrounded by angle brackets (< >) and may contain attributes.
@@ -35,7 +35,7 @@ HTML documents begin with a <!DOCTYPE> declaration, followed by an <html> elemen
 The <head> element contains metadata about the document, such as the title and links to CSS and JavaScript files.
 The <body> element contains the visible content of the document, such as headings, paragraphs, images, and links.
 
-**Introduction to HTML: Document and website structure
+# **Introduction to HTML: Document and website structure**
 
 HTML documents have a hierarchical structure, with a root <html> element, and nested elements inside it.
 HTML elements can have attributes, which provide additional information about the element.
@@ -44,7 +44,7 @@ Semantics refers to the meaning and purpose of the content on a web page.
 Good HTML structure and semantics are important for accessibility, SEO, and maintenance.
 HTML provides a range of structural elements, such as headings, paragraphs, lists, and tables, that can be used to organize content.
 
-**Introduction to HTML: The head metadata in HTML
+# **Introduction to HTML: The head metadata in HTML**
 
 The <head> element in an HTML document contains metadata about the document, such as the title, description, and keywords.
 The title element is displayed in the browser's title bar and is also used by search engines to understand the content of the page.
@@ -54,7 +54,7 @@ The <link> element is used to link to external resources, such as CSS stylesheet
 The <style> element is used to define CSS rules directly in the HTML document.
 The <meta> element is used to provide additional information about the document, such as the author, language, and character encoding.
 
-**Thinking before coding
+# **Thinking before coding**
 
 Before starting to code a website, it's important to plan and think about the design and functionality you want to achieve.
 This involves considering factors such as the purpose of the website, the target audience, the content, and the desired user experience.
@@ -63,7 +63,7 @@ It's important to prioritize accessibility and usability in your design, to ensu
 Testing and iterating on your design is important to ensure that it meets the needs of your users and achieves your goals.
 Good planning and design can save time and effort in the long run, and help you create a successful and effective website.
 
-**Semantics
+# **Semantics**
 
 Semantics refers to the meaning and purpose of the content on a web page, and how it relates to other content on the page and on the web.
 Good semantic HTML structure is important for accessibility, SEO, and maintenance.
@@ -72,7 +72,7 @@ Using semantic elements makes it easier for assistive technologies like screen r
 Semantic HTML also helps search engines understand the content and purpose of the page, which can improve search rankings.
 Good use of semantics can also make your code more maintainable and easier to work with.
 
-**What is JavaScript?
+# **What is JavaScript?**
 
 JavaScript is a programming language used to add interactivity and functionality to web pages.
 JavaScript code is executed by the browser, and can be used to manipulate the content and behavior of web pages in response to user interactions.

@@ -1,4 +1,4 @@
-**Getting started with the web
+# **Getting started with the web**
 
 The web consists of a collection of interconnected documents and other resources, linked by hyperlinks and URLs.
 The web is built on three main technologies: HTML, CSS, and JavaScript.

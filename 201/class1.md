@@ -99,3 +99,4 @@
 * Read - Reads the data from the database. For example, displaying a user's profile information on a website.
 * Update - Modifies existing data in the database. For example, updating a user's password or email address.
 * Delete - Removes existing data from the database. For example, deleting a user's account.
+

@@ -42,3 +42,12 @@
 * Undefined: represents a value that has not been defined or assigned.
 * Null: represents an intentional absence of any object value.
 * Symbol: represents a unique and immutable identifier.
+
+# **Conditional logic**
+
+* If statement: Allows you tun run a block of code if condition is true.
+* Else statement: Use with an if statement to run a different block of code if the condition of the if statement is false.
+* Else if statement: You use this to check multiple conditions.
+* Switch statement: Allows you to run different blocks of code based on the variable value.
+* Ternary operator: A shorthand way to write an if/else statement
+* 

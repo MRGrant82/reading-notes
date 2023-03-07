@@ -33,3 +33,12 @@
 * Conditionals in JavaScript allow for executing different code based on whether a condition is true or false.
 * Conditional statements include the if statement, which executes code if a condition is true, and the if...else statement, which executes one set of code if the condition is true and another set of code if the condition is false.
 * JavaScript also includes comparison and logical operators for creating more complex conditions.
+
+# **Primitive data types**
+
+* Number: represents numeric values, including integers and floating-point numbers.
+* String: represents text values, enclosed in single or double quotes.
+* Boolean: represents a logical value, either true or false.
+* Undefined: represents a value that has not been defined or assigned.
+* Null: represents an intentional absence of any object value.
+* Symbol: represents a unique and immutable identifier.

@@ -28,6 +28,7 @@ I am here to learn how to code!
 [Link to class 8 notes for 102](102/class8.md)
 
 **Links to 201 class notes**
+
 [CSS Cheat Sheet](201/cssCheatSheet.md)
 
 [Link to class 1 notes for 201](201/class1.md)
